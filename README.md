@@ -1,2 +1,2 @@
 # butt
-DELTA YOWA v3.7.2F
+DELTA YOWA v3.8.2F
