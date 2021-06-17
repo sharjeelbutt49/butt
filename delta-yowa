@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "Sharjeel Butt v3.7.2",
-      "code": 27,
-      "url": "https://sharjeelapk29.blogspot.com/2021/05/delta-yowa-v372f.html",
-      "changelog": "- Add View Messages by - Add Admin Mark - Add View Revoked Message - Add Ring Online View - Add Preview on Sharjeel Setting - New HOME Style - Long Click Profile Home Header to Switch Disable Clicking on WA Title - Fix Bug"
+      "version": "Sharjeel Butt v3.7.3",
+      "code": 28,
+      "url": "https://sharjeelapk29.blogspot.com",
+      "changelog": "- Messenger Home UI - Gradient Bubble - Fix Quick Contact View - Fix Online Toast - Long Click on Pinterest Tab to Change Grid/List - Long Click on Profile View to Access Hidden Chat"
     }
   ]
 }
